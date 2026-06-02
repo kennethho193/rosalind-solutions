@@ -28,5 +28,6 @@ Working through Rosalind problems to continue developing my programming skills i
 | 16 | Introduction to Random Strings | `PROB` | [PROB_rosalind.py](python/PROB_rosalind.py) |
 | 17 | RNA Splicing | `SPLC` | [SPLC_rosalind.py](python/SPLC_rosalind.py) |
 | 18 | Transitions and Transversions | `TRAN` | [TRAN_rosalind.py](python/TRAN_rosalind.py) |
+| 19 | Perfect Matchings and RNA Secondary Structures | `PMCH` | [PMCH_rosalind.py](python/PMCH_rosalind.py) |
 
 ---
