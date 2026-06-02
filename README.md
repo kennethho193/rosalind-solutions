@@ -31,5 +31,6 @@ Working through Rosalind problems to continue developing my programming skills i
 | 19 | Perfect Matchings and RNA Secondary Structures | `PMCH` | [PMCH_rosalind.py](python/PMCH_rosalind.py) |
 | 20 | Finding a Spliced Motif | `SSEQ` | [SSEQ_rosalind.py](python/SSEQ_rosalind.py) |
 | 21 | Inferring mRNA from Protein | `MRNA` | [MRNA_rosalind.py](python/MRNA_rosalind.py) |
+| 22 | Enumerating Gene Orders | `PERM` | [PERM_rosalind.py](python/PERM_rosalind.py) |
 
 ---
