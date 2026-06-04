@@ -32,5 +32,6 @@ Working through Rosalind problems to continue developing my programming skills i
 | 20 | Finding a Spliced Motif | `SSEQ` | [SSEQ_rosalind.py](python/SSEQ_rosalind.py) |
 | 21 | Inferring mRNA from Protein | `MRNA` | [MRNA_rosalind.py](python/MRNA_rosalind.py) |
 | 22 | Enumerating Gene Orders | `PERM` | [PERM_rosalind.py](python/PERM_rosalind.py) |
+| 23 | Enumerating k-mers Lexicographically | `LEXF` | [LEXF_rosalind.py](python/LEXF_rosalind.py) |
 
 ---
