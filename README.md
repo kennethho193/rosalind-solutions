@@ -34,5 +34,6 @@ Working through Rosalind problems to continue developing my programming skills i
 | 22 | Enumerating Gene Orders | `PERM` | [PERM_rosalind.py](python/PERM_rosalind.py) |
 | 23 | Enumerating k-mers Lexicographically | `LEXF` | [LEXF_rosalind.py](python/LEXF_rosalind.py) |
 | 24 | Partial Permutations | `PPER` | [PPER_rosalind.py](python/PPER_rosalind.py) |
+| 25 | k-Mer Composition | `KMER` | [KMER_rosalind.py](python/KMER_rosalind.py) |
 
 ---
