@@ -35,5 +35,6 @@ Working through Rosalind problems to continue developing my programming skills i
 | 23 | Enumerating k-mers Lexicographically | `LEXF` | [LEXF_rosalind.py](python/LEXF_rosalind.py) |
 | 24 | Partial Permutations | `PPER` | [PPER_rosalind.py](python/PPER_rosalind.py) |
 | 25 | k-Mer Composition | `KMER` | [KMER_rosalind.py](python/KMER_rosalind.py) |
+| 26 | Ordering Strings of Varying Length Lexicographically | `LEXV` | [LEXV_rosalind.py](python/LEXV_rosalind.py) |
 
 ---
