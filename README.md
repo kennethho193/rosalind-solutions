@@ -38,5 +38,6 @@ Working through Rosalind problems to continue developing my programming skills i
 | 26 | Ordering Strings of Varying Length Lexicographically | `LEXV` | [LEXV_rosalind.py](python/LEXV_rosalind.py) |
 | 27 | Completing a Tree | `TREE` | [TREE_rosalind.py](python/TREE_rosalind.py) |
 | 28 | Counting Phylogenetic Ancestors | `INOD` | [INOD_rosalind.py](python/INOD_rosalind.py) |
+| 29 | Creating a Distance Matrix | `PDST` | [PDST_rosalind.py](python/PDST_rosalind.py) |
 
 ---
