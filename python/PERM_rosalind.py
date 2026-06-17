@@ -23,7 +23,6 @@ def perm(n):
     print(numPerms)
     for p in perms:
         print(' '.join(map(str, p)))
-    return None
 
 n = int(read_input("data/rosalind_perm.txt"))
 perm(n)
