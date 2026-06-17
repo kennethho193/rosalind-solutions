@@ -2,14 +2,12 @@ import requests
 from rosalind_utils import read_input
 
 def mprt(id, conditions):
-    """
-    since we are given a list of IDs, we can loop through for each ID
-    Maybe have something that deciphers the N{P}[ST]{P} as the thing we are looking for and sliding window through each item in the list
-    Rules: {} means anything but that, [] is any letter in that
-    """
+    #fetch sequence, then sliding window of length of conditions through
+    
     sequence = uniProtID(id)
     positions = []
     n = len(conditions)
+    #at each position, check all conditions, if passes, append position
     for i in range(len(sequence) - n + 1):
         if all(conditions[j](sequence[i+j]) for j in range(n)):
             positions.append(i+1)
@@ -24,6 +22,7 @@ def uniProtID(id):
     return sequence
 
 def parse_motif(motif):
+    #converts motif string (Ex:N{P}[ST]{P}) into a list of condition functions
     conditions = []
     i = 0
     while i < len(motif):
@@ -42,8 +41,7 @@ def parse_motif(motif):
             i += 1
     return conditions
 
-#print(mprt("B5ZC00"))
-
+#motif can be sqpped for any pattern using {} and [] notation
 protein_ids = read_input("data/rosalind_mprt.txt").strip().split("\n")
 motif = "N{P}[ST]{P}"
 conditions = parse_motif(motif)
