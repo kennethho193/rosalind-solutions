@@ -5,5 +5,6 @@ def reverseComplement(s: str) -> str:
     complement_table = str.maketrans("ACGT", "TGCA")
     return s.translate(complement_table)[::-1]
 
-revc = read_input('rosalind_revc (1).txt')
-print(reverseComplement(revc))
+if __name__ == "__main__":
+    revc = read_input('rosalind_revc (1).txt')
+    print(reverseComplement(revc))

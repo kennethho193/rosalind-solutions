@@ -40,5 +40,6 @@ Working through Rosalind problems to continue developing my programming skills i
 | 28 | Counting Phylogenetic Ancestors | `INOD` | [INOD_rosalind.py](python/INOD_rosalind.py) |
 | 29 | Creating a Distance Matrix | `PDST` | [PDST_rosalind.py](python/PDST_rosalind.py) |
 | 30 | Finding a Protein Motif | `MPRT` | [MPRT_rosalind.py](python/MPRT_rosalind.py) |
+| 31 | Open Reading Frames | `ORF` | [ORF_rosalind.py](python/ORF_rosalind.py) |
 
 ---

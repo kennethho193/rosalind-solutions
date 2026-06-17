@@ -12,5 +12,6 @@ def RNAtransform(t: str):
             continue
     return r
 
-rna = read_input('rosalind_rna.txt')
-print(RNAtransform(rna))
+if __name__ == "__main__":
+    rna = read_input('rosalind_rna.txt')
+    print(RNAtransform(rna))
