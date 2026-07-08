@@ -42,6 +42,7 @@ Working through Rosalind problems to continue developing my programming skills i
 | 30 | Finding a Protein Motif | `MPRT` | [MPRT_rosalind.py](python/MPRT_rosalind.py) |
 | 31 | Open Reading Frames | `ORF` | [ORF_rosalind.py](python/ORF_rosalind.py) |
 | 32 | Locating Restriction Sites | `REVP` | [REVP_rosalind.py](python/REVP_rosalind.py) |
+| 33 | Genome Assembly as Shortest Superstring | `LONG` | [LONG_rosalind.py](python/LONG_rosalind.py) |
 
 
 ---
