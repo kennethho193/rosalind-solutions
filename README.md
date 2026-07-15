@@ -45,5 +45,6 @@ Working through Rosalind problems to continue developing my programming skills i
 | 33 | Genome Assembly as Shortest Superstring | `LONG` | [LONG_rosalind.py](python/LONG_rosalind.py) |
 | 34 | Longest Increasing Subsequence | `LGIS` | [LGIS_rosalind.py](python/LGIS_rosalind.py) |
 | 35 | Enumerating Oriented Gene Orderings | `SIGN` | [SIGN_rosalind.py](python/SIGN_rosalind.py) |
+| 36 | Matching Random Motifs | `RSTR` | [RSTR_rosalind.py](python/RSTR_rosalind.py) |
 
 ---
