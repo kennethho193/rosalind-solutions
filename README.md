@@ -47,5 +47,6 @@ Working through Rosalind problems to continue developing my programming skills i
 | 35 | Enumerating Oriented Gene Orderings | `SIGN` | [SIGN_rosalind.py](python/SIGN_rosalind.py) |
 | 36 | Matching Random Motifs | `RSTR` | [RSTR_rosalind.py](python/RSTR_rosalind.py) |
 | 37 | Expected Number of Restriction Sites | `EVAL` | [EVAL_rosalind.py](python/EVAL_rosalind.py) |
+| 38 | Counting Subsets | `SSET` | [SSET_rosalind.py](python/SSET_rosalind.py) |
 
 ---
