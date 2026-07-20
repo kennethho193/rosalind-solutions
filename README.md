@@ -49,5 +49,6 @@ Working through Rosalind problems to continue developing my programming skills i
 | 37 | Expected Number of Restriction Sites | `EVAL` | [EVAL_rosalind.py](python/EVAL_rosalind.py) |
 | 38 | Counting Subsets | `SSET` | [SSET_rosalind.py](python/SSET_rosalind.py) |
 | 39 | Introduction to Alternative Splicing | `ASPC` | [ASPC_rosalind.py](python/ASPC_rosalind.py) |
+| 40 | Reversal Distance | `REAR` | [REAR_rosalind.py](python/REAR_rosalind.py) |
 
 ---
