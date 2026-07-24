@@ -12,5 +12,6 @@ def parseHammingStrings(filename):
         line2 = line[1]
     return line1, line2
 
-line1, line2 = parseHammingStrings('rosalind_hamm.txt')
-print(hammingDist(line1,line2))
+if __name__ == "__main__":
+    line1, line2 = parseHammingStrings('rosalind_hamm.txt')
+    print(hammingDist(line1,line2))
