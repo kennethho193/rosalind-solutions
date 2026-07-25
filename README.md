@@ -52,5 +52,6 @@ Working through Rosalind problems to continue developing my programming skills i
 | 40 | Reversal Distance | `REAR` | [REAR_rosalind.py](python/REAR_rosalind.py) |
 | 41 | Speeding Up Motif Finding | `KMP` | [KMP_rosalind.py](python/KMP_rosalind.py) |
 | 42 | Error Correction in Reads | `CORR` | [CORR_rosalind.py](python/CORR_rosalind.py) |
+| 43 | Finding a Shared Spliced Motif | `LCSQ` | [LCSQ_rosalind.py](python/LCSQ_rosalind.py) |
 
 ---
