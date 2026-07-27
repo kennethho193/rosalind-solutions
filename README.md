@@ -55,5 +55,6 @@ Working through Rosalind problems to continue developing my programming skills i
 | 43 | Finding a Shared Spliced Motif | `LCSQ` | [LCSQ_rosalind.py](python/LCSQ_rosalind.py) |
 | 44 | Introduction to Set Operations | `SETO` | [SETO_rosalind.py](python/SETO_rosalind.py) |
 | 45 | Interleaving Two Motifs | `SCSP` | [SCSP_rosalind.py](python/SCSP_rosalind.py) |
+| 46 | Inferring Protein from Spectrum | `SPEC` | [SPEC_rosalind.py](python/SPEC_rosalind.py) |
 
 ---
