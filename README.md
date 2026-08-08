@@ -58,5 +58,6 @@ Working through Rosalind problems to continue developing my programming skills i
 | 46 | Inferring Protein from Spectrum | `SPEC` | [SPEC_rosalind.py](python/SPEC_rosalind.py) |
 | 47 | Comparing Spectra with the Spectral Convolution | `CONV` | [CONV_rosalind.py](python/CONV_rosalind.py) |
 | 48 | Introduction to Pattern Matching | `TRIE` | [TRIE_rosalind.py](python/TRIE_rosalind.py) |
+| 49 | Edit Distance | `EDIT` | [EDIT_rosalind.py](python/EDIT_rosalind.py) |
 
 ---
