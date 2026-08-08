@@ -26,22 +26,23 @@ def edta(s, t):
     i, j = n, m
     while i > 0 and j > 0:
         if s[i-1] == t[j-1] or dp[i][j] == dp[i-1][j-1] + 1:
-            # match or substitution — move diagonally
+            #match or substitution — move diagonally
             s_aug = s[i-1] + s_aug
             t_aug = t[j-1] + t_aug
             i -= 1
             j -= 1
         elif dp[i-1][j] < dp[i][j-1]:
-            # deletion — move up
+            #deletion from s, s gets char, t gets gap -
             s_aug = s[i-1] + s_aug
             t_aug = "-" + t_aug
             i -= 1
         else:
-            # insertion — move left
+            #insertion into s, t gets char and s gets gap -
             t_aug = t[j-1] + t_aug
             s_aug = "-" + s_aug
             j -= 1   
 
+    #adds any potential remaing char from either string
     while i > 0:
         s_aug = s[i-1] + s_aug
         i -= 1
