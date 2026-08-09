@@ -60,5 +60,6 @@ Working through Rosalind problems to continue developing my programming skills i
 | 48 | Introduction to Pattern Matching | `TRIE` | [TRIE_rosalind.py](python/TRIE_rosalind.py) |
 | 49 | Edit Distance | `EDIT` | [EDIT_rosalind.py](python/EDIT_rosalind.py) |
 | 50 | Edit Distance Alignment | `EDTA` | [EDTA_rosalind.py](python/EDTA_rosalind.py) |
+| 51 | Global Alignment with Scoring Matrix | `GLOB` | [GLOB_rosalind.py](python/GLOB_rosalind.py) |
 
 ---
