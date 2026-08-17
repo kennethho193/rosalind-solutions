@@ -63,5 +63,6 @@ Working through Rosalind problems to continue developing my programming skills i
 | 51 | Global Alignment with Scoring Matrix | `GLOB` | [GLOB_rosalind.py](python/GLOB_rosalind.py) |
 | 52 | Sorting by Reversals | `SORT` | [SORT_rosalind.py](python/SORT_rosalind.py) |
 | 53 | Catalan Numbers and RNA Secondary Structures | `CAT` | [CAT_rosalind.py](python/CAT_rosalind.py) |
+| 54 | Motzkin Numbers and RNA Secondary Structures | `MOTZ` | [MOTZ_rosalind.py](python/MOTZ_rosalind.py) |
 
 ---
