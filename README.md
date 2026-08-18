@@ -64,5 +64,6 @@ Working through Rosalind problems to continue developing my programming skills i
 | 52 | Sorting by Reversals | `SORT` | [SORT_rosalind.py](python/SORT_rosalind.py) |
 | 53 | Catalan Numbers and RNA Secondary Structures | `CAT` | [CAT_rosalind.py](python/CAT_rosalind.py) |
 | 54 | Motzkin Numbers and RNA Secondary Structures | `MOTZ` | [MOTZ_rosalind.py](python/MOTZ_rosalind.py) |
+| 55 | Wobble Bonding and RNA Secondary Structures | `RNAS` | [RNAS_rosalind.py](python/RNAS_rosalind.py) |
 
 ---
